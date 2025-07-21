@@ -9,3 +9,5 @@ Accepted to Synthese, 2025.
 To run:
 ```bash
 python Compositional_Signals_Sim.py
+
+Requires: numpy
